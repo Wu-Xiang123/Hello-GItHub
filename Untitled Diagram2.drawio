@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T12:27:38.689Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="0NyqUWe7NriySSw_mo0s" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T12:32:17.791Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="o2jOkosgqR_th6LUMW8Q" version="15.8.3" type="github">
   <diagram id="WyzBlZ7lUFtpEgTt48l5" name="Page-1">
     <mxGraphModel dx="1425" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -430,6 +430,50 @@
         </mxCell>
         <mxCell id="ufxT-27bUbr_YRMTmESy-123" value="RESNET-BLOCK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="392" y="1572" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-124" value="LSTM/RNN/GRU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1998" width="95" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufxT-27bUbr_YRMTmESy-126" target="ufxT-27bUbr_YRMTmESy-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-126" value="LSTM/RNN/GRU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="375" y="2089" width="95" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufxT-27bUbr_YRMTmESy-128" target="ufxT-27bUbr_YRMTmESy-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-128" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="2034" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-129" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="1998" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-130" value="Nx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="297" y="2043" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufxT-27bUbr_YRMTmESy-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423" y="1997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-132" value="INPUT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1939" width="95" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-133" value="OUTPUT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="2185" width="95" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-134" value="(N, TW, FEA)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287" y="1938" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-135" value="(N, PW, LAB)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2185" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufxT-27bUbr_YRMTmESy-137" target="ufxT-27bUbr_YRMTmESy-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxT-27bUbr_YRMTmESy-137" value="FC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="2139" width="95" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
