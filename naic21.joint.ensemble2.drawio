@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T07:25:12.381Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="vO9qxWeCz-i1BXr3Jxx9" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T06:41:45.403Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wx_81vyBLvRvhlpLjgyx" version="20.0.4" type="github">
   <diagram id="4ilLtrGpBdbXaVp1psEm" name="Page-1">
     <mxGraphModel dx="2672" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
         <mxCell id="R7-_mtrPBtYUc9v19rul-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-194">
           <mxGeometry x="198.7900000000002" y="26.28000000000003" width="41" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="R7-_mtrPBtYUc9v19rul-24" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Self-Encoder-16-1 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-194">
+        <mxCell id="R7-_mtrPBtYUc9v19rul-24" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;AutoEncoder-16-1 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-194">
           <mxGeometry x="36" y="76" width="204" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7-_mtrPBtYUc9v19rul-25" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Reconstructed-Features-16-1&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-194">
@@ -310,7 +310,7 @@
         <mxCell id="R7-_mtrPBtYUc9v19rul-303" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.68;dx=19.45;notch=0;fontSize=15;rotation=0;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-132">
           <mxGeometry x="-7" y="33.96" width="43" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R7-_mtrPBtYUc9v19rul-131" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Self-Encoder-16-K1 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-194">
+        <mxCell id="R7-_mtrPBtYUc9v19rul-131" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;AutoEncoder-16-K1 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-194">
           <mxGeometry x="37" y="249" width="204" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7-_mtrPBtYUc9v19rul-300" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ReIDLoss&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-1">
@@ -352,7 +352,7 @@
         <mxCell id="R7-_mtrPBtYUc9v19rul-314" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-304">
           <mxGeometry x="198.7900000000002" y="26.28000000000003" width="41" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="R7-_mtrPBtYUc9v19rul-315" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Self-Encoder-32-1 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-304">
+        <mxCell id="R7-_mtrPBtYUc9v19rul-315" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;AutoEncoder-32-1 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-304">
           <mxGeometry x="36" y="76" width="204" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7-_mtrPBtYUc9v19rul-316" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Reconstructed-Features-32-1&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-304">
@@ -466,7 +466,7 @@
         <mxCell id="R7-_mtrPBtYUc9v19rul-352" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.68;dx=19.45;notch=0;fontSize=15;rotation=0;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-344">
           <mxGeometry x="-7" y="33.96" width="43" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R7-_mtrPBtYUc9v19rul-353" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Self-Encoder-32-K2 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-304">
+        <mxCell id="R7-_mtrPBtYUc9v19rul-353" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;AutoEncoder-32-K2 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-304">
           <mxGeometry x="37" y="249" width="204" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7-_mtrPBtYUc9v19rul-354" value="" style="group" vertex="1" connectable="0" parent="R7-_mtrPBtYUc9v19rul-1">
@@ -502,7 +502,7 @@
         <mxCell id="R7-_mtrPBtYUc9v19rul-364" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-354">
           <mxGeometry x="198.7900000000002" y="26.28000000000003" width="41" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="R7-_mtrPBtYUc9v19rul-365" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Self-Encoder-64-1 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-354">
+        <mxCell id="R7-_mtrPBtYUc9v19rul-365" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;AutoEncoder-64-1 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-354">
           <mxGeometry x="36" y="76" width="204" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7-_mtrPBtYUc9v19rul-366" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Reconstructed-Features-64-1&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-354">
@@ -616,7 +616,7 @@
         <mxCell id="R7-_mtrPBtYUc9v19rul-402" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.68;dx=19.45;notch=0;fontSize=15;rotation=0;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-394">
           <mxGeometry x="-7" y="33.96" width="43" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R7-_mtrPBtYUc9v19rul-403" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;Self-Encoder-64-K3 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-354">
+        <mxCell id="R7-_mtrPBtYUc9v19rul-403" value="&lt;font style=&quot;font-size: 15px; line-height: 1;&quot;&gt;AutoEncoder-64-K3 (freezed)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="R7-_mtrPBtYUc9v19rul-354">
           <mxGeometry x="37" y="249" width="204" height="30" as="geometry" />
         </mxCell>
       </root>
